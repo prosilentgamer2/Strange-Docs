@@ -1,8 +1,9 @@
 {
   "index": "Introduction",
   "commands": "Commands",
+  "additional": "Additional",
   
-  
+
   "contact": {
     "title": "Additional Support ↗",
     "type": "page",
