@@ -1,15 +1,12 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "commands": "Commands",
+  
+  
   "contact": {
-    "title": "Contact ↗",
+    "title": "Additional Support ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://discord.gg/B8XtAwdeVV",
     "newWindow": true
   }
 }
