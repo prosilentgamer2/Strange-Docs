@@ -11,7 +11,7 @@ function useHead() {
   return (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="icon" type="image/png" href="/static/logo_white_small.png" />
+      <link rel="icon" type="image/png" href="/assets/strange.png" />
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content={description} />
       <meta name="og:title" content={title} />
@@ -41,7 +41,7 @@ const config: DocsThemeConfig = {
       style={{
           paddingLeft: '50px',
           lineHeight: '38px',
-          background: "url('./static/logo_white_small.png') no-repeat left",
+          background: "url('./assets/strange.png') no-repeat left",
           backgroundSize: '64px',
           fontWeight: 550,
       }}
